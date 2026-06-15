@@ -1,5 +1,8 @@
 *{
     margin: 0;
+    font-family: Syne Mono
+
+;
 }
 nav{
     display: flex;
@@ -32,4 +35,8 @@ ul{
  }
  nav li:last-child a:hover{
     color: black;
+ }
+ img{
+   width: 150px;
+   height: auto;
  }
